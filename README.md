@@ -3,6 +3,9 @@
 ## 컨셉
 java console에서 java 게임을 구현하고, 그것을 java swing으로 이식, 나아가 ServerSocket을 활용해서 온라인 게임 구현
 
+## 제작 기간
+2024년 3월 4일 ~ 2024년 3월 22일
+
 ## 기능
 - Chess piece를 객체 각각 다르게 구현
 
